@@ -2,21 +2,19 @@
 Changelog for package cob_environments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.5 (2017-07-18)
+------------------
+* manually fix changelog
+* Contributors: ipa-fxm
+
+0.6.4 (2016-10-10)
+------------------
+
 0.6.3 (2016-04-01)
 ------------------
 
 0.6.2 (2015-08-25)
 ------------------
-* migration to package format 2
-* minor cleanup
-* Contributors: ipa-fxm
-
-0.6.4 (2016-10-10)
-------------------
-* 0.6.3
-* update changelog
-* 0.6.2
-* update changelog
 * migration to package format 2
 * minor cleanup
 * Contributors: ipa-fxm
