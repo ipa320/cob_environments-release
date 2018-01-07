@@ -1,3 +1,28 @@
+## cob_environments (kinetic) - 0.6.6-0
+
+The packages in the `cob_environments` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_environments --track kinetic --rosdistro kinetic` on `Sun, 07 Jan 2018 12:11:47 -0000`
+
+These packages were released:
+- `cob_default_env_config`
+- `cob_environments`
+
+Version of package(s) in repository `cob_environments`:
+
+- upstream repository: https://github.com/ipa320/cob_environments.git
+- release repository: https://github.com/ipa320/cob_environments-release.git
+- rosdistro version: `0.6.5-0`
+- old version: `0.6.5-0`
+- new version: `0.6.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.3`
+- vcstools version: `0.1.39`
+
+
 ## cob_environments (indigo) - 0.6.6-0
 
 The packages in the `cob_environments` repository were released into the `indigo` distro by running `/usr/bin/bloom-release cob_environments --track indigo --rosdistro indigo` on `Sun, 07 Jan 2018 12:01:45 -0000`
