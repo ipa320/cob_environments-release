@@ -1,3 +1,28 @@
+## cob_environments (melodic) - 0.6.8-0
+
+The packages in the `cob_environments` repository were released into the `melodic` distro by running `/usr/bin/bloom-release cob_environments --rosdistro melodic` on `Fri, 05 Apr 2019 13:11:03 -0000`
+
+These packages were released:
+- `cob_default_env_config`
+- `cob_environments`
+
+Version of package(s) in repository `cob_environments`:
+
+- upstream repository: https://github.com/ipa320/cob_environments.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.11`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.3`
+- vcstools version: `0.1.40`
+
+
 ## cob_environments (kinetic) - 0.6.8-0
 
 The packages in the `cob_environments` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_environments --rosdistro kinetic` on `Fri, 05 Apr 2019 13:04:31 -0000`
