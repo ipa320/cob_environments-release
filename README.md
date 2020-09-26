@@ -1,3 +1,28 @@
+## cob_environments (noetic) - 0.6.12-1
+
+The packages in the `cob_environments` repository were released into the `noetic` distro by running `/usr/bin/bloom-release cob_environments --rosdistro noetic` on `Sat, 26 Sep 2020 15:28:27 -0000`
+
+These packages were released:
+- `cob_default_env_config`
+- `cob_environments`
+
+Version of package(s) in repository `cob_environments`:
+
+- upstream repository: https://github.com/ipa320/cob_environments.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## cob_environments (melodic) - 0.6.12-1
 
 The packages in the `cob_environments` repository were released into the `melodic` distro by running `/usr/bin/bloom-release cob_environments --rosdistro melodic` on `Sat, 26 Sep 2020 15:16:38 -0000`
